@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.10.5"
+    "@authgear/web": "2.2.0",
+    "astro": "^2.10.5",
+    "magic-sdk": "^19.1.0",
+    "stytch": "^8.2.0"
   }
 }
