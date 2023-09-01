@@ -3,6 +3,7 @@
 ## Standard SMS OTP services to test
 
 - [Stytch](https://stytch.com/docs/guides/passcodes/api) with [Supabase](https://supabase.com/partners/integrations/stytch)
+- [Stytch TOTP](https://stytch.com/docs/guides/totp/api)
 - [Magic.link](https://magic.link/docs/auth/login-methods/sms/integration/web#make-a-request)
 - [Firebase](https://console.firebase.google.com/u/0/project/magic-otp/authentication/users)
 
